@@ -22,6 +22,7 @@ in server side
 
 
 in client side
+just press enter to add todos
 1 - Redux - npm install redux
 2 - DevTools - npm install redux-devtools-extension
 3 - Thunk - npm install redux-thunk
